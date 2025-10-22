@@ -1,9 +1,3 @@
----
-
-### 2. ViraApp Projesi README Güncellemesi
-
-İşte `ViraApp` projen için, AI kısmının henüz "taslak" olduğunu belirten güncellenmiş `README.md` metni:
-
 #  ViraApp (Motivation & To-Do)
 
 This is 'ViraApp,' a full-stack motivation and to-do application.
