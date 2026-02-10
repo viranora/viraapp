@@ -12,4 +12,4 @@ For now, it's a solid, user-friendly app.
 * **Backend:** Spring Boot, Java. MongoDB
 
 ---
-...by Nora
+...by sema
